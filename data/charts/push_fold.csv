@@ -1,0 +1,16 @@
+position,stack_bb,hand,action
+BTN,10,AJo,Push
+BTN,10,KTs,Push
+BTN,10,33,Push
+BTN,10,T9s,Fold
+BTN,10,72o,Fold
+SB,10,AJo,Push
+SB,10,KTs,Push
+SB,10,33,Push
+SB,10,T9s,Push
+SB,10,72o,Fold
+BB,10,AJo,Push
+BB,10,KTs,Fold
+BB,10,33,Fold
+BB,10,T9s,Fold
+BB,10,72o,Fold
